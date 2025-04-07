@@ -242,4 +242,20 @@ Webservers on linux: `apache2` and `nginx`. `apache2` builds the server in `/var
 
 We can also use `#!/usr/bin/python3` to write a python script.
 
+## Git
+
+`git clone <repo>`
+
+`git status`: check the branch
+
+`git branch featureA`: creates a new branch `featureA`
+- `git branch -a`: list out all the branches
+
+`git checkout featureA`: checkouts the branch locally
+
+`git add`
+
+`git commit`
+
+`git push origin featureA`: push to the origin-featureA branch.
 
