@@ -4,20 +4,13 @@ Jonas Zhonghan Xie
 
 ## Basic Concept
 
-Shell is a text-based interface to the system.
-
-TCP/IP: protocols that define how computers communicate over Internet.
-
-DNS: Domain Name System. It translates domain names to IP addresses.
-
-Service: a process that runs on a server that handles a task.
-
-Port: a number that identifies a service on a server.
-
-Web Ports: 80 (HTTP) and 443 (HTTPS).
-
-SSH: Secure Shell. A protocol that allows you to connect to a server securely. Port 22. Defined in document RFC 4253.
-
+Shell is a text-based interface to the system.  
+TCP/IP: protocols that define how computers communicate over Internet.  
+DNS: Domain Name System. It translates domain names to IP addresses.  
+Service: a process that runs on a server that handles a task.  
+Port: a number that identifies a service on a server.  
+Web Ports: 80 (HTTP) and 443 (HTTPS).  
+SSH: Secure Shell. A protocol that allows you to connect to a server securely. Port 22. Defined in document RFC 4253.  
 GNU: free operating system.
 
 ## File system
